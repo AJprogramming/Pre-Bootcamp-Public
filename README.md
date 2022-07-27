@@ -1,2 +1,2 @@
 # Pre-Bootcamp-Public
-Pre-Bootcamp Public assignment
+Pre-Bootcamp Public repository assignment
